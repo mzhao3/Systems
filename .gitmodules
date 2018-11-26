@@ -1,0 +1,45 @@
+[submodule "MKS65C-forkin"]
+	path = MKS65C-forkin
+	url = https://github.com/mzhao3/MKS65C-forkin.git
+[submodule "MKS65C-parseargs"]
+	path = MKS65C-parseargs
+	url = https://github.com/mzhao3/MKS65C-parseargs.git
+[submodule "MKS65C-signals"]
+	path = MKS65C-signals
+	url = https://github.com/mzhao3/MKS65C-signals.git
+[submodule "MKS65C-dirinfo"]
+	path = MKS65C-dirinfo
+	url = https://github.com/mzhao3/MKS65C-dirinfo.git
+[submodule "MKS65C-stat"]
+	path = MKS65C-stat
+	url = https://github.com/mzhao3/MKS65C-stat
+[submodule "MKS65C-randomfile"]
+	path = MKS65C-randomfile
+	url = https://github.com/mzhao3/MKS65C-randomfile.git
+[submodule "MKS65C-file"]
+	path = MKS65C-file
+	url = https://github.com/mzhao3/MKS65C-file.git
+[submodule "MKS65C-sieve"]
+	path = MKS65C-sieve
+	url = https://github.com/mzhao3/MKS65C-sieve.git
+[submodule "MKS65C-Tunes"]
+	path = MKS65C-Tunes
+	url = https://github.com/mzhao3/MKS65C-Tunes.git
+[submodule "MKS65C-list"]
+	path = MKS65C-list
+	url = https://github.com/mzhao3/MKS65C-list.git
+[submodule "MKS65C-struct"]
+	path = MKS65C-struct
+	url = https://github.com/mzhao3/MKS65C-struct.git
+[submodule "MKS65C-Str"]
+	path = MKS65C-Str
+	url = https://github.com/mzhao3/MKS65C-Str.git
+[submodule "MKS65C-swap"]
+	path = MKS65C-swap
+	url = https://github.com/mzhao3/MKS65C-swap.git
+[submodule "MKS65C-pointy"]
+	path = MKS65C-pointy
+	url = https://github.com/mzhao3/MKS65C-pointy.git
+[submodule "MKS65C-Euler"]
+	path = MKS65C-Euler
+	url = https://github.com/mzhao3/MKS65C-Euler.git
